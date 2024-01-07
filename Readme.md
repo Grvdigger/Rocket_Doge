@@ -2,4 +2,4 @@ Readme
 
 ### Whitepaper
 
-Find our detailed whitepaper [here](path/to/your/whitepaper.md).
+Find our detailed whitepaper [here](Whitepaper.md).
